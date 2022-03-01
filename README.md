@@ -2,30 +2,32 @@
 
 # Hello, world! 👋
 
-I'm Nick O'Brien, a PhD candidate in the [Ortiz-Barrientos Lab](https://www.ortizbarrientoslab.org/) at the University of Queensland, Australia. My research interests include constraints and drivers of polygenic adaptation, and computational methods to find these regulators of natural selection. My PhD focuses on investigating some of these adaptive regulators in the context of both additive quantitative genetics models and nonlinear gene regulatory network models. In my free time, I like to listen to and write music
+I'm Nick O'Brien, a PhD candidate in the [Ortiz-Barrientos Lab](https://www.ortizbarrientoslab.org/) at the University of Queensland, Australia. My research interests include constraints and drivers of polygenic adaptation, and computational methods to find these regulators of natural selection. My PhD focuses on investigating some of these adaptive regulators in the context of both additive quantitative genetics models and nonlinear gene regulatory network models. In my free time, I like to listen to and write music, play video games, and code.
 
-You can find me on [![Twitter][1.2]][1].
+You can find me on ![Twitter][1] and check out my music on ![Apple Music, Spotify, or YouTube][2].
 
-##  Tools
+## ⚙️ Tools
+On a day-to-day I use
 ![](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Python%203-3776AB?logo=python&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Eidos-FF4154.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIgogICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIKICAgd2lkdGg9IjE2IgogICBoZWlnaHQ9IjE2IgogICB2aWV3Qm94PSIwIDAgMTYgMTYiCiAgIHZlcnNpb249IjEuMSIKICAgaWQ9InN2ZzM1IgogICBpbmtzY2FwZTp2ZXJzaW9uPSIxLjByYzEgKDA5OTYwZDYsIDIwMjAtMDQtMDkpIgogICBzb2RpcG9kaTpkb2NuYW1lPSJBcHBJY29uMTYuc3ZnIj4KICA8ZGVmcwogICAgIGlkPSJkZWZzMjkiIC8+CiAgPHNvZGlwb2RpOm5hbWVkdmlldwogICAgIGlkPSJiYXNlIgogICAgIHBhZ2Vjb2xvcj0iI2ZmZmZmZiIKICAgICBib3JkZXJjb2xvcj0iIzY2NjY2NiIKICAgICBib3JkZXJvcGFjaXR5PSIxLjAiCiAgICAgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAuMCIKICAgICBpbmtzY2FwZTpwYWdlc2hhZG93PSIyIgogICAgIGlua3NjYXBlOnpvb209IjIwIgogICAgIGlua3NjYXBlOmN4PSI4LjI2OTYwMDQiCiAgICAgaW5rc2NhcGU6Y3k9IjE2LjEyNTkzNSIKICAgICBpbmtzY2FwZTpkb2N1bWVudC11bml0cz0icHgiCiAgICAgaW5rc2NhcGU6Y3VycmVudC1sYXllcj0ibGF5ZXIxIgogICAgIGlua3NjYXBlOmRvY3VtZW50LXJvdGF0aW9uPSIwIgogICAgIHNob3dncmlkPSJ0cnVlIgogICAgIHVuaXRzPSJweCIKICAgICBzY2FsZS14PSIxIgogICAgIGlua3NjYXBlOnNuYXAtYmJveD0idHJ1ZSIKICAgICBpbmtzY2FwZTpiYm94LW5vZGVzPSJ0cnVlIgogICAgIGlua3NjYXBlOndpbmRvdy13aWR0aD0iMTUxMiIKICAgICBpbmtzY2FwZTp3aW5kb3ctaGVpZ2h0PSIxMzA3IgogICAgIGlua3NjYXBlOndpbmRvdy14PSIwIgogICAgIGlua3NjYXBlOndpbmRvdy15PSIyMyIKICAgICBpbmtzY2FwZTp3aW5kb3ctbWF4aW1pemVkPSIwIj4KICAgIDxpbmtzY2FwZTpncmlkCiAgICAgICB0eXBlPSJ4eWdyaWQiCiAgICAgICBpZD0iZ3JpZDk0IiAvPgogIDwvc29kaXBvZGk6bmFtZWR2aWV3PgogIDxtZXRhZGF0YQogICAgIGlkPSJtZXRhZGF0YTMyIj4KICAgIDxyZGY6UkRGPgogICAgICA8Y2M6V29yawogICAgICAgICByZGY6YWJvdXQ9IiI+CiAgICAgICAgPGRjOmZvcm1hdD5pbWFnZS9zdmcreG1sPC9kYzpmb3JtYXQ+CiAgICAgICAgPGRjOnR5cGUKICAgICAgICAgICByZGY6cmVzb3VyY2U9Imh0dHA6Ly9wdXJsLm9yZy9kYy9kY21pdHlwZS9TdGlsbEltYWdlIiAvPgogICAgICAgIDxkYzp0aXRsZT48L2RjOnRpdGxlPgogICAgICA8L2NjOldvcms+CiAgICA8L3JkZjpSREY+CiAgPC9tZXRhZGF0YT4KICA8ZwogICAgIGlua3NjYXBlOmxhYmVsPSJMYXllciAxIgogICAgIGlua3NjYXBlOmdyb3VwbW9kZT0ibGF5ZXIiCiAgICAgaWQ9ImxheWVyMSI+CiAgICA8cmVjdAogICAgICAgeT0iMCIKICAgICAgIHg9IjAiCiAgICAgICBoZWlnaHQ9IjE2IgogICAgICAgd2lkdGg9IjE2IgogICAgICAgaWQ9InJlY3QzMSIKICAgICAgIHN0eWxlPSJmaWxsOiMwMDAwMDAiIC8+CiAgICA8cmVjdAogICAgICAgeT0iMSIKICAgICAgIHg9IjEiCiAgICAgICBoZWlnaHQ9IjYiCiAgICAgICB3aWR0aD0iNiIKICAgICAgIGlkPSJyZWN0MzMiCiAgICAgICBzdHlsZT0iZmlsbDojZmYwMDAwIiAvPgogICAgPHJlY3QKICAgICAgIHk9IjEiCiAgICAgICB4PSIxNCIKICAgICAgIGhlaWdodD0iMSIKICAgICAgIHdpZHRoPSIxIgogICAgICAgaWQ9InJlY3QzNSIKICAgICAgIHN0eWxlPSJmaWxsOiNmZjAwMDAiIC8+CiAgICA8cmVjdAogICAgICAgeT0iMTIiCiAgICAgICB4PSIxNCIKICAgICAgIGhlaWdodD0iMyIKICAgICAgIHdpZHRoPSIxIgogICAgICAgaWQ9InJlY3QzNyIKICAgICAgIHN0eWxlPSJmaWxsOiNmZjAwMDAiIC8+CiAgICA8cmVjdAogICAgICAgeT0iMyIKICAgICAgIHg9IjE0IgogICAgICAgaGVpZ2h0PSIzIgogICAgICAgd2lkdGg9IjEiCiAgICAgICBpZD0icmVjdDM5IgogICAgICAgc3R5bGU9ImZpbGw6I2ZmZmZmZiIgLz4KICAgIDxyZWN0CiAgICAgICB5PSIxIgogICAgICAgeD0iMTEiCiAgICAgICBoZWlnaHQ9IjMiCiAgICAgICB3aWR0aD0iMiIKICAgICAgIGlkPSJyZWN0NDEiCiAgICAgICBzdHlsZT0iZmlsbDojZmZmZmZmIiAvPgogICAgPHJlY3QKICAgICAgIHk9IjgiCiAgICAgICB4PSIxIgogICAgICAgaGVpZ2h0PSI0IgogICAgICAgd2lkdGg9IjQiCiAgICAgICBpZD0icmVjdDQzIgogICAgICAgc3R5bGU9ImZpbGw6I2ZmZmZmZiIgLz4KICAgIDxyZWN0CiAgICAgICB5PSIxMyIKICAgICAgIHg9IjQiCiAgICAgICBoZWlnaHQ9IjIiCiAgICAgICB3aWR0aD0iNiIKICAgICAgIGlkPSJyZWN0NDUiCiAgICAgICBzdHlsZT0iZmlsbDojZmZmZmZmIiAvPgogICAgPHJlY3QKICAgICAgIHk9IjEyIgogICAgICAgeD0iMTEiCiAgICAgICBoZWlnaHQ9IjMiCiAgICAgICB3aWR0aD0iMiIKICAgICAgIGlkPSJyZWN0NDciCiAgICAgICBzdHlsZT0iZmlsbDojZmZmZmZmIiAvPgogICAgPHJlY3QKICAgICAgIHk9IjQiCiAgICAgICB4PSI4IgogICAgICAgaGVpZ2h0PSIzIgogICAgICAgd2lkdGg9IjIiCiAgICAgICBpZD0icmVjdDQ5IgogICAgICAgc3R5bGU9ImZpbGw6I2ZmZmZmZiIgLz4KICAgIDxyZWN0CiAgICAgICB5PSIxIgogICAgICAgeD0iOCIKICAgICAgIGhlaWdodD0iMiIKICAgICAgIHdpZHRoPSIyIgogICAgICAgaWQ9InJlY3Q1MSIKICAgICAgIHN0eWxlPSJmaWxsOiNmZmZmMDAiIC8+CiAgICA8cmVjdAogICAgICAgeT0iNyIKICAgICAgIHg9IjExIgogICAgICAgaGVpZ2h0PSI0IgogICAgICAgd2lkdGg9IjQiCiAgICAgICBpZD0icmVjdDUzIgogICAgICAgc3R5bGU9ImZpbGw6I2ZmZmYwMCIgLz4KICAgIDxyZWN0CiAgICAgICB5PSIxMyIKICAgICAgIHg9IjEiCiAgICAgICBoZWlnaHQ9IjIiCiAgICAgICB3aWR0aD0iMiIKICAgICAgIGlkPSJyZWN0NTUiCiAgICAgICBzdHlsZT0iZmlsbDojZmZmZjAwIiAvPgogICAgPHJlY3QKICAgICAgIHk9IjUiCiAgICAgICB4PSIxMSIKICAgICAgIGhlaWdodD0iMSIKICAgICAgIHdpZHRoPSIyIgogICAgICAgaWQ9InJlY3Q1NyIKICAgICAgIHN0eWxlPSJmaWxsOiMwMDAwZmYiIC8+CiAgICA8cmVjdAogICAgICAgeT0iOCIKICAgICAgIHg9IjYiCiAgICAgICBoZWlnaHQ9IjQiCiAgICAgICB3aWR0aD0iNCIKICAgICAgIGlkPSJyZWN0NTkiCiAgICAgICBzdHlsZT0iZmlsbDojMDAwMGZmIiAvPgogIDwvZz4KPC9zdmc+Cg==&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 
+Outside of work, I also tinker with some other tools
+![](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Source%20Engine-F79A10?logo=sourceengine&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Unity%20Engine-ffffff?logo=unity&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Unity%20Engine-ffffff?logo=unity&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat)
 
+## 📈 GitHub Stats
 
-
-To do this, I use [SLiM](https://github.com/MesserLab/SLiM), a forward-genetics simulation framework with a proprietary language similar to R. I am fascinated by programming and computers in general, which has led me to explore a variety of languages and projects.
-
-## 
-
-<hr>
-
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobrien97&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrien97&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nobrien97/nobrien97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,10 +43,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png 
-
 <!-- links -->
 
 [1]: https://twitter.com/stochasnick
+[2]: https://distrokid.com/hyperfollow/sinesurfer/transmission
