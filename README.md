@@ -38,7 +38,7 @@
 
 
 <details>
-<summary><h3>More</h3></summary>
+<summary>More</summary>
 <p align="center">
     <h1>Hello, world! 👋</h1>
     I'm Nick O'Brien, a PhD candidate in the <a href="https://www.ortizbarrientoslab.org/">Ortiz-Barrientos Lab</a> at the University of Queensland, Australia. My research interests include constraints and drivers of polygenic adaptation, and computational methods to find these regulators of natural selection. My PhD focuses on investigating some of these adaptive regulators in the context of both additive quantitative genetics models and nonlinear gene regulatory network models, using forward-time genetic simulation approaches. In my free time, I like to listen to and write music, play video games, and code. I also like to mod video games - I have done a bit of everything: level design, environment art, voice acting, scripting, and music.
