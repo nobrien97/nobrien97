@@ -1,4 +1,4 @@
-![Header](https://github.com/nobrien97/nobrien97/raw/main/images/lowpolyfactory.jpg)
+![Header](https://github.com/nobrien97/nobrien97/raw/main/images/lake4kdusk.jpg)
 
 
 <p align="center">
@@ -13,7 +13,7 @@
 <p align="center">
     <a href="#"><img alt="OS" src="https://img.shields.io/badge/-OS-494649?logo=docker&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu%2020.04-E95420?logo=ubuntu&logoColor=white&style=flat-square"></a>
-    <a><img alt="Windows" src="https://img.shields.io/badge/-Windows%2010-0078D6?logo=windows&logoColor=white&style=flat-square"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/-Windows%2010-0078D6?logo=windows&logoColor=white&style=flat-square"></a>
 
 <p align="center">
     <a href="#"><img alt="IDE" src="https://img.shields.io/badge/-IDE-494649?logo=visualstudio&logoColor=white&style=flat-square"></a>
