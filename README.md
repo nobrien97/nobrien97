@@ -10,7 +10,7 @@ You can find me on ![Twitter][1] and check out my music on ![Apple Music, Spotif
 
 
 <p align="center">
-    :link:
+    <img alt="Contact" src="https://img.shields.io/badge/-@nobrien97-494649?style=flat-square&logo=rss&logoColor=white">
     <a href="https://github.com/nobrien97" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@nobrien97-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://twitter.com/stochasnick" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@stochasnick-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"></a>
     <a href="https://orcid.org/0000-0003-1363-5841" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
@@ -18,7 +18,7 @@ You can find me on ![Twitter][1] and check out my music on ![Apple Music, Spotif
 </p>
 
 <p align="center">
-![](https://img.shields.io/badge/-OS-494649?logo=docker&logoColor=white&style=flat-square)
+(https://img.shields.io/badge/-OS-494649?logo=docker&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-Windows%2010-0078D6?logo=windows&logoColor=white&style=flat-square)
 <\p>
