@@ -45,7 +45,7 @@
 
 <h2>📈 GitHub Stats</h2>
     <p align="center">
-        <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nobrien97include_all_commits=true&count_private=true&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555&theme=dracula">
+        <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nobrien97&include_all_commits=true&count_private=true&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555&theme=dracula">
         <br>
         <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrien97&hide=html,&hide_border=true&title_color=5391FE&text_color=555&theme=dracula">
         </p>
