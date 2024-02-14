@@ -50,7 +50,7 @@
         <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrien97&hide=html,&hide_border=true&title_color=5391FE&text_color=555&theme=dracula">
         </p>
 
-<h2 align="center">Spotify Stats</h3>
+<h2>🎵 Spotify Stats</h2>
 <table width="500px" align="center">
     <tbody>
     <tr valign="top">
