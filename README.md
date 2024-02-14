@@ -49,7 +49,20 @@
         <br>
         <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrien97&hide=html,&hide_border=true&title_color=5391FE&text_color=555&theme=dracula">
         </p>
+
+<h2 align="center">Spotify Stats</h3>
+<table width="500px" align="center">
+    <tbody>
+    <tr valign="top">
+        <td width="500px" align="center">
+            <a href="https://open.spotify.com/user/31cdjiloso3bfclnhablq7ka3tvi" target="_blank"> <img width="500px" src="https://spotify-recently-played-readme.vercel.app/api?user=31cdjiloso3bfclnhablq7ka3tvi&unique=true"/> </a>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
 </details>
+
 
 <!--
 **nobrien97/nobrien97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
